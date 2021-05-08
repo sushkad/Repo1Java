@@ -19,14 +19,14 @@ public class ReverseString {
 		System.out.println(rev);
 		
 	}*/
+		 
 		
-		String s = "0987654321";
-		StringBuffer sb = new StringBuffer(s);
-		System.out.println(sb.reverse());
-		System.out.println(sb.charAt(0));
-		System.out.println(sb.hashCode());
-		System.out.println(sb.length());
-		System.out.println(sb.replace(0, 5, s));
+		/*
+		 * String s = "0987654321"; StringBuffer sb = new StringBuffer(s);
+		 * System.out.println(sb.reverse()); System.out.println(sb.charAt(0));
+		 * System.out.println(sb.hashCode()); System.out.println(sb.length());
+		 * System.out.println(sb.replace(0, 5, s));
+		 */
 		
 	}
 }
