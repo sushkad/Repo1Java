@@ -7,7 +7,9 @@ public class DataTypes {
 		
 		int i = 10;
 		int j = 20;
-		System.out.println(i+j);
+	//	System.out.println(i+j);
+		System.out.println(i);
+		System.out.println("i");
 		
 		char s = 's';
 		System.out.println(s);

@@ -16,7 +16,7 @@ public class ArrayConcept {
 		i[3]=40;
 		
 		System.out.println(i[2]);
-		System.out.println(i[3]);
+		  System.out.println(i[3]);
 		//System.out.println(i[4]);
 		
 		//size of an array or length
