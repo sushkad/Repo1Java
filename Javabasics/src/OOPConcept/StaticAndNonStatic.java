@@ -23,9 +23,10 @@ public class StaticAndNonStatic {
 		//1. Direct calling
 		sum();
 
-		//2. Calling by class name
+		//2. Calling by class name1
 		StaticAndNonStatic.sum();
 		System.out.println(age);
+		
 		////////////////////////////////////////////////////////////////////////////////
 
 		//how to call Non-static methods & variable

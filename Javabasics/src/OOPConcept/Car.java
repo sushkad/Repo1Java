@@ -34,12 +34,13 @@ public class Car {
 		System.out.println(c.mod);
 
 		System.out.println("Befor assigning the refernece");
-		
+
 		System.out.println(a.mod);
 		System.out.println(b.mod);
 		System.out.println(c.mod);
 
 		System.out.println("After shifting the refernece");
+
 		a=b;
 		b=c;
 		c=a;
@@ -50,7 +51,6 @@ public class Car {
 		System.out.println(a.mod); //90
 		b.mod = 50;
 		System.out.println(a.mod); //90
-
 
 	}
 

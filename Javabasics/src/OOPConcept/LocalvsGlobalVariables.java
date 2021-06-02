@@ -18,11 +18,15 @@ public class LocalvsGlobalVariables {
 
 	}
 
+	
 	public void sum()
 	{
-		int i = 10; //local variable foe sum method
+		int i = 10; //local variable for sum method
 		int j = 20;
 		int age = 25;
+		System.out.println(age);
+		System.out.println(i);
+		System.out.println(j);
 
 	}
 

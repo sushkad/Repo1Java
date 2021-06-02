@@ -5,10 +5,9 @@ public class Functioninjava {
 	public static void main(String[] args)
 	{
 		//function and methods both are same thing
-		
 
 		Functioninjava obj  = new Functioninjava();  //object created
-			
+
 		// object name = new object
 		// obj - is only reference variable
 
@@ -22,7 +21,7 @@ public class Functioninjava {
 		int i = obj.division(10, 5);
 		System.out.println(i);
 
-		//main method is void  - never returns a value  //never write returns stmt in main method 
+		//main method is void  - never returns a value  //never write returns statement in main method 
 	}
 
 	//non static method

@@ -23,9 +23,6 @@ public class MethodOverloading {
 	 * public static void main(int g) { System.out.println(f); }
 	 */
 	
-	
-	
-	 
 	// can not create method inside a method
 	// Different arguments with different data types are allowed
 	// Duplicate method -- i.e - Same method name with same number of argument are not allowed
@@ -34,8 +31,6 @@ public class MethodOverloading {
 	public void sum ()
 	{
 		System.out.println("Sum Method Zero parameter");
-		
-	
 	}
 	
 	public void sum(int i)
