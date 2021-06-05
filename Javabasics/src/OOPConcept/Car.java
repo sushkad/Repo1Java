@@ -2,7 +2,7 @@ package OOPConcept;
 
 public class Car {
 
-	// two class variable
+	// class variable
 	int mod;
 	int wheels;
 	int door;

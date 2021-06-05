@@ -6,7 +6,6 @@ public class LocalvsGlobalVariables {
 	String name = "sush";
 	int age  = 25 ;
 
-
 	public static void main(String[] args) {
 
 		int i = 10;  //Local variable
@@ -18,7 +17,6 @@ public class LocalvsGlobalVariables {
 
 	}
 
-	
 	public void sum()
 	{
 		int i = 10; //local variable for sum method
@@ -29,5 +27,4 @@ public class LocalvsGlobalVariables {
 		System.out.println(j);
 
 	}
-
 }
