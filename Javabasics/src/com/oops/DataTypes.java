@@ -15,8 +15,7 @@ public class DataTypes {
 		System.out.println(s);
 		char b = 'b';
 		System.out.println(b);
-		char q = 's';
-		System.out.println(q);
+		
 		
 		
 		double d1 = 12.23;
